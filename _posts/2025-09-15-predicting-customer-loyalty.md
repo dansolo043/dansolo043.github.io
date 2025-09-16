@@ -1167,3 +1167,4 @@ We could even look to tune the hyperparameters of the Random Forest, notably reg
 
 From a data point of view, further variables could be collected, and further feature engineering could be undertaken to ensure that we have as much useful information available for predicting customer loyalty
 
+
