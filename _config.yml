@@ -9,13 +9,13 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Dan Solomon
-description: "Hi I'm Dan, and I'm a Data Science enthusiast.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages by using the links below!"
+description: "Hi, I'm Dan, a Statistics student interested in the intersection of data and business. My portfolio showcases projects where I've used data to solve problems, uncover insights, and understand their potential business impact. Feel free to explore my work and connect with me through LinkedIn below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: Business Analytics <span style="color:#f58506"> Portfolio </span>
 location: "Toronto, ON"
 resume_url: /docs/resume.docx
 avatar_image: img/IMG_0445bb.jpg
